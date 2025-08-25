@@ -2,21 +2,6 @@
 
 > **Assistance • Actuation • Automation**
 
-<p align="center">
-  <img src="docs/hero.png" alt="A3Bujji Core" width="720"/>
-</p>
-
-<p align="center">
-  <a href="#">![Build](https://img.shields.io/badge/build-passing-brightgreen)</a>
-  <a href="#">![Arduino](https://img.shields.io/badge/arduino-compatible-blue)</a>
-  <a href="#">![Bluetooth](https://img.shields.io/badge/bluetooth-5.0-informational)</a>
-  <a href="#">![License](https://img.shields.io/badge/license-MIT-black)</a>
-</p>
-
-> **305‑character repo description:**
-> A3Bujji Core is an Arduino‑based multi‑mode robotics framework enabling Assistance, Actuation, and Automation. With AI‑powered navigation, Bluetooth control, and advanced sensors, it adapts to human‑following, telebotic, and autonomous tasks—ideal for research, rescue, and robotics innovation.
-
----
 
 ## 🚀 Overview
 
